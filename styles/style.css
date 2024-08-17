@@ -29,19 +29,19 @@ ol {
 
 .page {
   inline-size: 1200px;
-  block-size: 100%;
+  block-size: 800px;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  padding: 133px 30px;;
 }
 
 .content {
   box-sizing: border-box;
-  margin: auto;
   min-width: 1140px;
-  margin: 133px 30px;
+  max-height: 534px;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
