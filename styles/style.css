@@ -30,7 +30,7 @@ ol {
 .page {
   display: flex;
   align-items: center;
-  justify-content: center;
+  margin:auto;
   inline-size: 1200px;
   block-size: 100%;
   color: #fff;
