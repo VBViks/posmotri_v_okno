@@ -42,7 +42,6 @@ ol {
 
 .content {
   inline-size: 1140px;
-  block-size: 100%;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -169,8 +168,7 @@ ol {
   font-size: 75px;
   font-weight: 700;
   text-transform: uppercase;
-  line-height: 70.5px; 
-  padding-top: 2px; 
+  line-height: 70px; 
 } 
 
 .content__accent {
